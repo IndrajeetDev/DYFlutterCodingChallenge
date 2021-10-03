@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "927854419993",
+    "project_id": "coding-challenge-a4e81",
+    "storage_bucket": "coding-challenge-a4e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927854419993:android:13f666c493f7decd814a88",
+        "android_client_info": {
+          "package_name": "com.doubleyolk.codingchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927854419993-4me5min4gmv4ouqht2go3bga61h754h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doubleyolk.codingchallenge",
+            "certificate_hash": "9c5a6d5c8bdaba25b2f121ffd5201ba484583116"
+          }
+        },
+        {
+          "client_id": "927854419993-bj0j7te87kbkij00d4qn84fl66a69jto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRpw0anfF8cBNvJPtIzQpS56yBtDGBgBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927854419993-bj0j7te87kbkij00d4qn84fl66a69jto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927854419993-1o9cqlstjq9v67t6ed9qfoe3jhci8l35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.doubleyolk.codingchallenge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
