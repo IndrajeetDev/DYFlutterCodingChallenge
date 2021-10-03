@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
-Shared an apk file, please find in below link
+Please find an apk in below link
 
 https://i.diawi.com/kkwfWL
+
+For installing an apk, open above link in the android device and install it.
