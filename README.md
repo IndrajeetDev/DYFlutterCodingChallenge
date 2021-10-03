@@ -2,6 +2,6 @@
 
 A new Flutter project.
 
-Use below link to install an app
+Shared an apk file, please find in below link
 
 https://i.diawi.com/kkwfWL
